@@ -1,4 +1,3 @@
-```markdown
 # Adult Census ML Pipeline
 
 A Machine Learning project for predicting whether a person's annual income is `<=50K` or `>50K` using the Adult Census Income dataset.
